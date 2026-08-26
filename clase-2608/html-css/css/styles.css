@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: black;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+h3{
+    color: aquamarine;
+    margin-left: 25px;
+}
+.boton{
+    background-color: blueviolet;
+    color: black;
+    margin-left: 25px;
+    padding: 30px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.boton:hover{
+    background-color:orange;
+    color: white;
+    margin-left: 25px;
+    padding: 30px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.texto-boton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.texto-boton:hover{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
